@@ -1,0 +1,458 @@
+{ 
+         "name": " SPORT",
+         "image": "https://www.himnus.com/wp-content/uploads/2021/01/logo-sport.png",
+         "stations": [ 
+
+
+{
+"name": "BEIN1",
+"image":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=44&tv=บีอินสปอตส์1",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN2",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=188&tv=บีอินสปอตส์2",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN3",
+"image":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=6&tv=บีอินสปอตส์3",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL1",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",
+ "url": "https://goal-th.com/ช่องรายการทีวี/?id=38&tv=TruePremierFootball1",
+          "referer": "https://sport.livedoomovies.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"info": "480p ufabetcompany",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL2",
+"image":"https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",
+ "url": "https://goal-th.com/ช่องรายการทีวี/?id=39&tv=TruePremierFootball2",
+          "referer": "https://sport.livedoomovies.com/",
+"userAgent": "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)",
+"info": "480p ufabetcompany",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL3",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=40&tv=TruePremierFootball3",
+          "referer": "https://sport.livedoomovies.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ufabetcompany",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL4",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",
+ "url": "https://goal-th.com/ช่องรายการทีวี/?id=41&tv=TruePremierFootball4",
+          "referer": "https://sport.livedoomovies.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ufabetcompany",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL5",
+"image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=42&tv=TruePremierFootball5",
+          "referer": "https://sport.livedoomovies.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info": "480p ufabetcompany",
+"playInNatPlayer": "true"
+},
+{
+"name": " TRUESP HD1 ",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":"https://cdn1.googlecdn.live/wdbsf/tsp1/playlist.m3u8",
+"referer": "https://xn--l3caqb0aylm5a2a7gub1fxe.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": " TRUESP HD2",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url":"https://cdn1.googlecdn.live/wdbsf/tsp2/playlist.m3u8",
+"referer": "https://xn--l3caqb0aylm5a2a7gub1fxe.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": " TRUESP HD3",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url":"https://cdn1.googlecdn.live/wdbsf/tsp3/playlist.m3u8",
+"referer": "https://xn--l3caqb0aylm5a2a7gub1fxe.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "TRUESP HD4",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url":  "https://goal-th.com/ช่องรายการทีวี/?id=395&tv=truesports4", 
+"referer": "https://freetvdd.com/", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TRUESP HD5",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=78&tv=truesports5",
+"referer": "https://doolive4k.tv/"},
+{
+"name": "True Sport 7",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=79&tv=truesports7",
+"referer": "https://freetvdd.com/"},
+
+{
+"name": "TRUE TENNIS",
+"image": "https://www.img02.xyz/assets/img/ch_logo/hd-tennis.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=394&tv=TrueTennis",
+"referer": "https://www.livedoomovies.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE NBA",
+"image": "https://dookeela.live/uploads/1664532126.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=61&tv=NBATV",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name": "TRUE NFL",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=219&tv=NFLNetwork",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name": "REDBLUE",
+"image": "https://i.imgur.com/A4GMBN6.png",
+"url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name":"Sky Sports Golf",
+"image":"https://dookeela.live/uploads/1712888702.png",
+"imageScale": "fitStart",
+"url":"https://dooballkub.com/live/?skysportsgolf",
+"referer": "https://dooballkub.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+
+{
+"name": "Golf Channel Thailand",
+"image": "https://dookeela.live/uploads/1664801941.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=71&tv=GolfChannelThailandHD",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"},
+
+{
+"name": "ONE GOLF",
+"image": "https://i.ibb.co/MczvgzW/onegolf.png",
+"url":"http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+name:"SuperSport Golf",
+image:"https://pbs.twimg.com/profile_images/349365851/Golf_400x400.jpg",
+"url":"https://30a-tv.com/feeds/vidaa/golf.m3u8",
+"referer": "https://newembedplay.xyz/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+   
+{
+"name": "NBC Golf",
+"image": "https://www.sportsvideo.org/wp-content/uploads/2022/03/unnamed-1-3.jpg",
+"url":"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f",
+"referer": "https://newembedplay.xyz/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+
+
+
+{
+"name": "PGA TOUR",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/1200px-PGA_Tour_logo.svg.png",
+"url":"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c828b82-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f462faf4-6f7f-4789-94df-d5226e0c1909&userId=&serverSideAds=true
+",
+"referer": "",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name": "SPOTV",
+"image": "https://dookeela.live/uploads/1664529562.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=59&tv=SPOTV",
+"referer": "https://www.livedoomovies.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SPOTV2",
+"image": "https://dookeela.live/uploads/1664529575.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=60&tv=SPOTV2",
+"referer": "https://www.livedoomovies.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BOXING TV",
+"image": "https://www.sportstribal.tv/home/wp-content/uploads/2022/05/BoxingTV_logo_sml.png",
+"url":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8",
+"referer":"",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name": "T SPORTS 7",
+"image": "https://dookeela.live/uploads/1673134276.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=135&tv=TSports7",
+"referer": "https://newembedplay.xyz/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+
+{
+"name": "DUBAI SPORT 2",
+"image": "https://korafoot.com/wp-content/uploads/2023/02/dubai-sport-2.png",
+"url":"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8",
+"referer":"",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name": "DUBAI SPORT 3",
+"image": "https://korafoot.com/wp-content/uploads/2023/02/dubai-sport-3.png",
+"url":"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8",
+"referer":"",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name":"3BB SPORTS1",
+"image":"https://dookeela.live/uploads/1720429672.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=419&tv=SportsOne",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"referer": "",
+"playInNatPlayer": "true"},
+
+{
+"name": "TNT Sports 1",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3T7W28ozk0hFTgj-CB9wG_ed3UJoNIpRB4g&s",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=65&tv=BTSport1UK",
+"referer":"https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name": "TNT Sports 2",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvGGrDok5P2OWJJ0_y4k7pVhJMTPqmhGZ8_Q&s",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=66&tv=BTSport2UK",
+"referer":"https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name": "TNT Sports 3",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedu3JZttOzReCfEArLMYS-hoAUIlZHGqy6w&s",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=67&tv=BTSport3UK",
+"referer":"https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+{
+"name": "TNT Sports 4",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdVUPO_2gomM5uZ32UQY6HW5AoHH99uPK-gQ&s",
+"url"		: "https://goal-th.com/ช่องรายการทีวี/?id=98&tv=BTSport4UK",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+{
+"name"			:	"FIFA",
+"image"			:	"https://dookeela.live/uploads/1739094315.png",
+"url"			:	"https://goal-th.com/ช่องรายการทีวี/?id=583&tv=FIFAPlus",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"},
+
+{ 
+"name"		: "FOX Sports 1 (US)", 
+"image"		: "https://dookeela.live/uploads/1664219664.png", 
+"url"		: "https://goal-th.com/ช่องรายการทีวี/?id=21&tv=FOXSports1USA",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+
+{ 
+"name"		: "FOX Sports 2 (US)", 
+"image"		: "https://dookeela.live/uploads/1673668104.png", 
+"url"		: "https://goal-th.com//ช่องรายการทีวี/?id=138&tv=FOXSports2USA",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+
+{
+"name":"Eurosport",
+"image":"https://www.img01.xyz/assets/img/ch_logo/uk-eurosport1.jpg",
+"url"		: "https://goal-th.com/ช่องรายการทีวี/?id=332&tv=Eurosport1|Spain",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+}, 
+ 
+{
+"name": "eurosport-2",
+"image": "https://www.img10.xyz/assets/img/ch_logo/uk-eurosport2.jpg",
+"url"		: "https://goal-th.com/ช่องรายการทีวี/?id=333&tv=Eurosport2|Spain",
+"info"		: "",
+"referer"	: "https://freetvdd.com/"
+},
+
+{
+"name"			:	"RTA Sport",
+"image"			:	"https://i.imgur.com/lEXrwos.jpg",
+"url"			:	"https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"},
+
+{
+"name"			:	"4sports",
+"image"			:	"https://www.4sportsgroup.com/userfiles/images/sportstrimmed.png",
+"url"			:	"https://hls.pokertvfa.live/hls/stream.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"},
+
+{
+"name": "ASTRO BADMINTON",
+"image": "https://dookeela.live/uploads/1729385788.png",
+"url"		: "https://goal-th.com/ช่องรายการทีวี/?id=538&tv=AstroBadminton",
+"referer"	: "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info": "",
+"desktop": "true"
+},
+
+{
+"name":"Astro Arena 🇹🇭",
+"image":"https://dookeela.live/uploads/1697812603.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=257&tv=AstroArena", 
+"referer": "https://dookeela.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"},
+
+{
+   "name": "Astro football",
+   "image": "https://dookeela.live/uploads/1729384406.png",
+   "url": "https://goal-th.com/ช่องรายการทีวี/?id=534&tv=AstroFootball",
+   "referer": "https://goal-th.com/"
+  },
+  {
+   "name": "Astro grandstand",
+   "image": "https://dookeela.live/uploads/1729384448.png",
+   "url": "https://goal-th.com/ช่องรายการทีวี/?id=535&tv=AstroGrandstand",
+   "referer": "https://goal-th.com/"
+  },
+  {
+   "name": "Astro premierleague",
+   "image": "https://dookeela.live/uploads/1729384542.png",
+   "url": "https://goal-th.com/ช่องรายการทีวี/?id=537&tv=AstroPremierLeague",
+   "referer": "https://goal-th.com/"
+  },
+  {
+   "name": "Astro sportsplus",
+   "image": "https://dookeela.live/uploads/1729385809.png",
+   "url": "https://goal-th.com/ช่องรายการทีวี/?id=539&tv=AstroSportsPlus",
+   "referer": "https://goal-th.com/"
+  },
+
+{
+"name":"JSPORTS 1",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png",
+"url":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+"referer": "https://claplivehdplay.ru/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{
+"name":"JSPORTS 2",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png",
+"url":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+"referer": "https://claplivehdplay.ru/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{
+"name":"JSPORTS 3",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png",
+"url":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+"referer": "https://claplivehdplay.ru/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{
+"name":"JSPORTS 4",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png",
+"url":"https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+"referer": "https://claplivehdplay.ru/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+{
+   "name": "SportTV1",
+   "image": "https://dookeela.live/uploads/1663979709.png",
+   "url": "https://goal-th.com/ช่องรายการทีวี/?id=2&tv=SportTV1",
+   "referer": "https://dookeela.live/"
+  },
+
+{
+   "name": "SportTV2",
+   "image": "https://dookeela.live/uploads/1663979801.png",
+   "url": "https://goal-th.com/ช่องรายการทีวี/?id=3&tv=SportTV2",
+   "referer": "https://dookeela.live/"
+  },
+
+
+      ]
+      }
+	  
